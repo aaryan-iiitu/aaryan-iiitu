@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-iiitu&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-iiitu" /> </p>
 
-- 🌱 I’m currently learning **Backend development and DevOps**
+- 🌱 I’m currently learning **System Design and DevOps**
 
 - 📫 How to reach me **aaryaniiitu@gmail.com**
 
@@ -24,7 +24,7 @@
 <ul>
   <li>Current CGPA :<b> 9.08</b></li>
   <li> <b>Expert </b> on Codeforces (Highest Rating : 1668)</li>
-  <li> <b>4★ Coder</b> on CodeChef (Highest Rating : 1819)</li>
+  <li> <b>4★ </b> on CodeChef (Highest Rating : 1819)</li>
   <li> <b>Guardian</b> on LeetCode (Highest Rating : 2310)</li>
 </ul>
 
